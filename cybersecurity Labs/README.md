@@ -25,4 +25,4 @@ These labs come from coursework and practice exercises. Scenarios are fictional 
 
 ## Connect
 
-- LinkedIn: [add your LinkedIn link here]
+- LinkedIn: linkedin.com/in/liz-mukami-9ab9b3336
